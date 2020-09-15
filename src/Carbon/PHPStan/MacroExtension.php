@@ -1,6 +1,6 @@
 <?php
 
-namespace Carbon\PHPStan;
+namespace Uniondrug\Carbon\PHPStan;
 
 use PHPStan\Reflection\ClassReflection;
 use PHPStan\Reflection\MethodReflection;

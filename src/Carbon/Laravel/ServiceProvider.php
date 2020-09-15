@@ -1,6 +1,6 @@
 <?php
 
-namespace Carbon\Laravel;
+namespace Uniondrug\Carbon\Laravel;
 
 use Carbon\Carbon;
 use Carbon\CarbonImmutable;

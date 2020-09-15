@@ -1,6 +1,6 @@
 <?php
 
-namespace Carbon\PHPStan;
+namespace Uniondrug\Carbon\PHPStan;
 
 use Carbon\CarbonInterface;
 use ReflectionClass;

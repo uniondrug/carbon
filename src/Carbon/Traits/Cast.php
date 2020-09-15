@@ -1,6 +1,6 @@
 <?php
 
-namespace Carbon\Traits;
+namespace Uniondrug\Carbon\Traits;
 
 use Carbon\Exceptions\InvalidCastException;
 use DateTimeInterface;

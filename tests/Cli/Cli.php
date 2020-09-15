@@ -1,6 +1,6 @@
 <?php
 
-namespace Carbon;
+namespace Uniondrug\Carbon;
 
 class Cli
 {

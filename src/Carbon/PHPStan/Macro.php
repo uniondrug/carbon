@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Carbon\PHPStan;
+namespace Uniondrug\Carbon\PHPStan;
 
 use Closure;
 use PHPStan\Reflection\Php\BuiltinMethodReflection;

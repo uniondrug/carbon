@@ -1,10 +1,10 @@
 <?php
 
-namespace Carbon\Cli;
+namespace Uniondrug\Carbon\Cli;
 
 class Invoker
 {
-    const CLI_CLASS_NAME = 'Carbon\\Cli';
+    const CLI_CLASS_NAME = 'Uniondrug\\Carbon\\Cli';
 
     protected function runWithCli(string $className, array $parameters): bool
     {
